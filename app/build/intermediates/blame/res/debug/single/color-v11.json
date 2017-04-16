@@ -4,6 +4,14 @@
         "source": "C:\\Users\\PhantomRO\\.android\\build-cache\\b351a7c3c69bd0349883bafdcd086dd8d674e05e\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
+        "merged": "C:\\Users\\Ark\\StudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Ark\\.android\\build-cache\\790fbfec6caa701d245d726bb6792ceb6c17cadd\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ark\\StudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Ark\\.android\\build-cache\\790fbfec6caa701d245d726bb6792ceb6c17cadd\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
         "merged": "C:\\Users\\PhantomRO\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
         "source": "C:\\Users\\PhantomRO\\.android\\build-cache\\b351a7c3c69bd0349883bafdcd086dd8d674e05e\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     }

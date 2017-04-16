@@ -18,6 +18,7 @@ public class MainActivity extends Activity {
 	private TextView txtName;
 	private TextView txtEmail;
 	private Button btnLogout;
+	private Button btnJob;
 
 	private SQLiteHandler db;
 	private SessionManager session;
@@ -30,6 +31,7 @@ public class MainActivity extends Activity {
 		txtName = (TextView) findViewById(R.id.name);
 		txtEmail = (TextView) findViewById(R.id.email);
 		btnLogout = (Button) findViewById(R.id.btnLogout);
+		btnJob = (Button) findViewById(R.id.btnJob);
 
 		// SqLite database handler
 		db = new SQLiteHandler(getApplicationContext());
@@ -51,6 +53,14 @@ public class MainActivity extends Activity {
 		txtName.setText(name);
 		txtEmail.setText(email);
 
+		// Start Job
+		btnJob.setOnClickListener(new View.OnClickListener() {
+			@Override
+			public void onClick(View view) {
+				startJob();
+			}
+		});
+
 		// Logout button click event
 		btnLogout.setOnClickListener(new View.OnClickListener() {
 
@@ -59,6 +69,12 @@ public class MainActivity extends Activity {
 				logoutUser();
 			}
 		});
+	}
+
+	private void startJob() {
+		Intent intent = new Intent(MainActivity.this, JobActivity.class);
+		startActivity(intent);
+		finish();
 	}
 
 	/**

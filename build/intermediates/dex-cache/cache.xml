@@ -3,84 +3,147 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\PhantomRO\.android\build-cache\bfdc0ed00604ed0eb1f0770c06320e8a3900c8a6\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="C:\Users\PhantomRO\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9c1b4f26df78be987f9f2738d4d3c5931deceb9b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\PhantomRO\.android\build-cache\b351a7c3c69bd0349883bafdcd086dd8d674e05e\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="C:\Users\PhantomRO\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cd7b60206ca662073c43e24e6a3b21467635b8fb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\PhantomRO\.android\build-cache\24798620195e743f9ab69960ff27102b80243f30\output\jars\classes.jar"
+        jar="C:\Users\Ark\.android\build-cache\b51067397edea633c0ab41dd2d0f5d0dddbfa879\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
-        <dex dex="C:\Users\PhantomRO\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9c88f4e1d3526083b78109fad21360fb2b7be418\classes.dex" />
+        <dex dex="C:\Users\Ark\StudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d0e4766d193a8129cd62619feae74d8762e6b88\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ark\.android\build-cache\b51067397edea633c0ab41dd2d0f5d0dddbfa879\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\Ark\StudioProjects\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes_3d0e4766d193a8129cd62619feae74d8762e6b88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ark\.android\build-cache\496efaf3ee86d70e59a6df680ccff540cfdf1a35\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Ark\StudioProjects\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes_af1dc99ba153c4f767b59b46153a9260917040d7.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\PhantomRO\.android\build-cache\a17377e0767e800c8ff7986f78070023b988df21\output\jars\libs\internal_impl-23.1.1.jar"
+        jar="C:\Users\Ark\.android\build-cache\a19b2f99d007c675e4daf050f38cedd895560c47\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="C:\Users\PhantomRO\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_ee2693fdf80ac70659b93ee4fb8b6ea7c96aceee\classes.dex" />
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Ark\StudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af7d9bbe1b31d7f2ef44b0287e4a06ea0e23bc60\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\PhantomRO\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jar="C:\Users\Ark\StudioProjects\AndroidLoginAndRegistration\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="C:\Users\PhantomRO\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_406888348e9c73f34766f4618f8f03ce153784e3\classes.dex" />
+        sha1="edad65f3d61cafb338bf405b85405f0012b2e8d8">
+        <dex dex="C:\Users\Ark\StudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4a98bee1917fcf4068c9c42eb7ec4b49cafc168c\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\PhantomRO\.android\build-cache\a17377e0767e800c8ff7986f78070023b988df21\output\jars\classes.jar"
+        jar="C:\Users\Ark\.android\build-cache\790fbfec6caa701d245d726bb6792ceb6c17cadd\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="C:\Users\PhantomRO\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c5c5e40b9c3b535d5f74a2b273d0ee289fcfc3e6\classes.dex" />
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Ark\StudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_214058c343842b96f1da3a3efc84b068cbe687ee\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\PhantomRO\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c541f30057896c4a254feae2806c7d7f9b1616b9">
-        <dex dex="C:\Users\PhantomRO\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_dccefee7ff9f2c63bbac4cff9fe00f320610cc24\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\PhantomRO\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="C:\Users\PhantomRO\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_106bb699c2d5f7c2665fd2b3842906ef558ca6b4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\PhantomRO\.android\build-cache\7f7a90d767f3ffe9d84508e3759a5c213532fe14\output\jars\classes.jar"
+        jar="C:\Users\Ark\.android\build-cache\496efaf3ee86d70e59a6df680ccff540cfdf1a35\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="C:\Users\PhantomRO\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8c1ffe706e2ab75c5a85edeeca469e19d0033fa3\classes.dex" />
+        <dex dex="C:\Users\Ark\StudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af1dc99ba153c4f767b59b46153a9260917040d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ark\.android\build-cache\790fbfec6caa701d245d726bb6792ceb6c17cadd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Ark\StudioProjects\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes_214058c343842b96f1da3a3efc84b068cbe687ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ark\.android\build-cache\a19b2f99d007c675e4daf050f38cedd895560c47\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Ark\StudioProjects\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes_af7d9bbe1b31d7f2ef44b0287e4a06ea0e23bc60.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ark\StudioProjects\AndroidLoginAndRegistration\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Ark\StudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_36f6d95ac76a9803b5a72e81f88dbb31a11f8cf8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ark\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Ark\StudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_5dbee85980541737ffa52372a38737b335b75486\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ark\.android\build-cache\33e1a990998fd3563f8999bda451cdce91e70b7f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Ark\StudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bbbe8b00ca074dfbb09bc5e25cbebcdd5f6aa318\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ark\.android\build-cache\33e1a990998fd3563f8999bda451cdce91e70b7f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Ark\StudioProjects\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes_bbbe8b00ca074dfbb09bc5e25cbebcdd5f6aa318.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ark\.android\build-cache\33e1a990998fd3563f8999bda451cdce91e70b7f\output\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Ark\StudioProjects\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_f34672602d3a7727cf76c7cdb0e19901f831b81a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ark\.android\build-cache\33e1a990998fd3563f8999bda451cdce91e70b7f\output\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Ark\StudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_f34672602d3a7727cf76c7cdb0e19901f831b81a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ark\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Ark\StudioProjects\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_5dbee85980541737ffa52372a38737b335b75486.jar" />
     </item>
 
 </items>

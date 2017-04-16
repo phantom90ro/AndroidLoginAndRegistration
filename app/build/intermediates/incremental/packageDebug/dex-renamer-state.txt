@@ -1,7 +1,4 @@
-#Sat Apr 15 23:40:33 EEST 2017
-base.0=C\:\\Users\\PhantomRO\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_dccefee7ff9f2c63bbac4cff9fe00f320610cc24
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\PhantomRO\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_106bb699c2d5f7c2665fd2b3842906ef558ca6b4\\classes.dex
-base.1=C\:\\Users\\PhantomRO\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_106bb699c2d5f7c2665fd2b3842906ef558ca6b4
-file.0=C\:\\Users\\PhantomRO\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_dccefee7ff9f2c63bbac4cff9fe00f320610cc24\\classes.dex
+#Sun Apr 16 19:40:16 EEST 2017
+base.0=C\:\\Users\\Ark\\StudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Ark\\StudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

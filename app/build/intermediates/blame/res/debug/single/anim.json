@@ -1,27 +1,19 @@
 [
     {
+        "merged": "C:\\Users\\Ark\\StudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Ark\\.android\\build-cache\\496efaf3ee86d70e59a6df680ccff540cfdf1a35\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ark\\StudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Ark\\.android\\build-cache\\790fbfec6caa701d245d726bb6792ceb6c17cadd\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
         "merged": "C:\\Users\\PhantomRO\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
         "source": "C:\\Users\\PhantomRO\\.android\\build-cache\\7f7a90d767f3ffe9d84508e3759a5c213532fe14\\output\\res\\anim\\design_snackbar_in.xml"
     },
     {
-        "merged": "C:\\Users\\PhantomRO\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\PhantomRO\\.android\\build-cache\\b351a7c3c69bd0349883bafdcd086dd8d674e05e\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "C:\\Users\\PhantomRO\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\PhantomRO\\.android\\build-cache\\b351a7c3c69bd0349883bafdcd086dd8d674e05e\\output\\res\\anim\\abc_fade_in.xml"
-    },
-    {
         "merged": "C:\\Users\\PhantomRO\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
         "source": "C:\\Users\\PhantomRO\\.android\\build-cache\\b351a7c3c69bd0349883bafdcd086dd8d674e05e\\output\\res\\anim\\abc_fade_out.xml"
-    },
-    {
-        "merged": "C:\\Users\\PhantomRO\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\PhantomRO\\.android\\build-cache\\b351a7c3c69bd0349883bafdcd086dd8d674e05e\\output\\res\\anim\\abc_slide_in_top.xml"
-    },
-    {
-        "merged": "C:\\Users\\PhantomRO\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\PhantomRO\\.android\\build-cache\\b351a7c3c69bd0349883bafdcd086dd8d674e05e\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
         "merged": "C:\\Users\\PhantomRO\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
@@ -32,6 +24,14 @@
         "source": "C:\\Users\\PhantomRO\\.android\\build-cache\\b351a7c3c69bd0349883bafdcd086dd8d674e05e\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
+        "merged": "C:\\Users\\Ark\\StudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Ark\\.android\\build-cache\\790fbfec6caa701d245d726bb6792ceb6c17cadd\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ark\\StudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Ark\\.android\\build-cache\\496efaf3ee86d70e59a6df680ccff540cfdf1a35\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
         "merged": "C:\\Users\\PhantomRO\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
         "source": "C:\\Users\\PhantomRO\\.android\\build-cache\\b351a7c3c69bd0349883bafdcd086dd8d674e05e\\output\\res\\anim\\abc_slide_out_top.xml"
     },
@@ -40,16 +40,72 @@
         "source": "C:\\Users\\PhantomRO\\.android\\build-cache\\b351a7c3c69bd0349883bafdcd086dd8d674e05e\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\PhantomRO\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\PhantomRO\\.android\\build-cache\\b351a7c3c69bd0349883bafdcd086dd8d674e05e\\output\\res\\anim\\abc_popup_enter.xml"
+        "merged": "C:\\Users\\Ark\\StudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Ark\\.android\\build-cache\\790fbfec6caa701d245d726bb6792ceb6c17cadd\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
         "merged": "C:\\Users\\PhantomRO\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
         "source": "C:\\Users\\PhantomRO\\.android\\build-cache\\7f7a90d767f3ffe9d84508e3759a5c213532fe14\\output\\res\\anim\\design_fab_in.xml"
     },
     {
+        "merged": "C:\\Users\\Ark\\StudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Ark\\.android\\build-cache\\790fbfec6caa701d245d726bb6792ceb6c17cadd\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
         "merged": "C:\\Users\\PhantomRO\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
         "source": "C:\\Users\\PhantomRO\\.android\\build-cache\\7f7a90d767f3ffe9d84508e3759a5c213532fe14\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ark\\StudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Ark\\.android\\build-cache\\496efaf3ee86d70e59a6df680ccff540cfdf1a35\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ark\\StudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Ark\\.android\\build-cache\\790fbfec6caa701d245d726bb6792ceb6c17cadd\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\PhantomRO\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\PhantomRO\\.android\\build-cache\\b351a7c3c69bd0349883bafdcd086dd8d674e05e\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\PhantomRO\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\PhantomRO\\.android\\build-cache\\b351a7c3c69bd0349883bafdcd086dd8d674e05e\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ark\\StudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Ark\\.android\\build-cache\\790fbfec6caa701d245d726bb6792ceb6c17cadd\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ark\\StudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Ark\\.android\\build-cache\\790fbfec6caa701d245d726bb6792ceb6c17cadd\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\PhantomRO\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\PhantomRO\\.android\\build-cache\\b351a7c3c69bd0349883bafdcd086dd8d674e05e\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\PhantomRO\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\PhantomRO\\.android\\build-cache\\b351a7c3c69bd0349883bafdcd086dd8d674e05e\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ark\\StudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Ark\\.android\\build-cache\\790fbfec6caa701d245d726bb6792ceb6c17cadd\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ark\\StudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Ark\\.android\\build-cache\\790fbfec6caa701d245d726bb6792ceb6c17cadd\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ark\\StudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Ark\\.android\\build-cache\\790fbfec6caa701d245d726bb6792ceb6c17cadd\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\PhantomRO\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\PhantomRO\\.android\\build-cache\\b351a7c3c69bd0349883bafdcd086dd8d674e05e\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ark\\StudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Ark\\.android\\build-cache\\496efaf3ee86d70e59a6df680ccff540cfdf1a35\\output\\res\\anim\\design_fab_out.xml"
     },
     {
         "merged": "C:\\Users\\PhantomRO\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",

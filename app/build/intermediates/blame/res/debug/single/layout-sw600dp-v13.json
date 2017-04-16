@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Ark\\StudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Ark\\.android\\build-cache\\496efaf3ee86d70e59a6df680ccff540cfdf1a35\\output\\res\\layout-sw600dp\\design_layout_snackbar.xml"
+    },
+    {
         "merged": "C:\\Users\\PhantomRO\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
         "source": "C:\\Users\\PhantomRO\\.android\\build-cache\\7f7a90d767f3ffe9d84508e3759a5c213532fe14\\output\\res\\layout-sw600dp\\design_layout_snackbar.xml"
     }

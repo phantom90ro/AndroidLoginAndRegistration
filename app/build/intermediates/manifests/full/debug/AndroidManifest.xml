@@ -9,6 +9,9 @@
         android:targetSdkVersion="23" />
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
         android:name="info.androidhive.loginandregistration.app.AppController"
@@ -36,6 +39,7 @@
             android:name="info.androidhive.loginandregistration.activity.MainActivity"
             android:label="@string/app_name"
             android:launchMode="singleTop" />
+        <activity android:name="info.androidhive.loginandregistration.activity.JobActivity" />
     </application>
 
 </manifest>
