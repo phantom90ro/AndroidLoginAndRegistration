@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Apr 16 19:40:16 EEST 2017
+#Sun Apr 16 21:12:26 EEST 2017
 122.file=C\:\\Users\\Ark\\StudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png
 60.set=ANDROID_RESOURCE
 129.file=C\:\\Users\\Ark\\StudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\abc_alert_dialog_button_bar_material.xml

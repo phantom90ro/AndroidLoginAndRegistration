@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:background="@color/bg_job"
     android:gravity="center"
     android:orientation="vertical"
     android:padding="10dp">
@@ -15,17 +13,16 @@
         android:layout_gravity="center"
         android:orientation="vertical"
         android:paddingLeft="20dp"
-        android:paddingRight="20dp"
-        android:weightSum="1">
+        android:paddingRight="20dp" >
 
         <TextView
             android:id="@+id/tvUser"
-            android:layout_width="wrap_content"
+            android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:padding="10dp"
-            android:textAlignment="center"
+            android:textAllCaps="false"
             android:textColor="@color/lbl_name"
-            android:textSize="24dp" />
+            android:textSize="15dp" />
 
         <Button
             android:id="@+id/btnBack"
@@ -37,4 +34,4 @@
             android:textColor="@color/white" />
 
     </LinearLayout>
-</LinearLayout>
+</RelativeLayout>

@@ -31,7 +31,7 @@ public class JobActivity extends Activity {
 
         HashMap<String, String> user = db.getUserDetails();
 
-        String user_id = user.get("unique_id");
+        String user_id = user.get("uid");
 
         tvUser.setText(user_id);
 
