@@ -372,6 +372,7 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="app_name">Android Login and Registration</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="btn_add_job">ADD JOB</string>
     <string name="btn_back">BACK</string>
     <string name="btn_job">START JOB</string>
     <string name="btn_link_to_login">Already registred! Login Me.</string>
@@ -383,6 +384,11 @@
     <string name="hint_email">Email</string>
     <string name="hint_name">Fullname</string>
     <string name="hint_password">Password</string>
+    <string name="job_contractor">Contractor</string>
+    <string name="job_end">End Time</string>
+    <string name="job_header">Add Job</string>
+    <string name="job_start">Start Time</string>
+    <string name="job_street">Street</string>
     <string name="name">Fullname</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="welcome">Welcome</string>

@@ -140,20 +140,20 @@
         "source": "C:\\Users\\Ark\\.android\\build-cache\\790fbfec6caa701d245d726bb6792ceb6c17cadd\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "C:\\Users\\PhantomRO\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "C:\\Users\\PhantomRO\\.android\\build-cache\\7f7a90d767f3ffe9d84508e3759a5c213532fe14\\output\\res\\layout\\design_layout_snackbar_include.xml"
-    },
-    {
         "merged": "C:\\Users\\Ark\\StudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
         "source": "C:\\Users\\Ark\\.android\\build-cache\\790fbfec6caa701d245d726bb6792ceb6c17cadd\\output\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "C:\\Users\\PhantomRO\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "C:\\Users\\PhantomRO\\.android\\build-cache\\b351a7c3c69bd0349883bafdcd086dd8d674e05e\\output\\res\\layout\\notification_template_media.xml"
+        "merged": "C:\\Users\\PhantomRO\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\PhantomRO\\.android\\build-cache\\7f7a90d767f3ffe9d84508e3759a5c213532fe14\\output\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
         "merged": "C:\\Users\\PhantomRO\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "C:\\Users\\PhantomRO\\.android\\build-cache\\b351a7c3c69bd0349883bafdcd086dd8d674e05e\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PhantomRO\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\PhantomRO\\.android\\build-cache\\b351a7c3c69bd0349883bafdcd086dd8d674e05e\\output\\res\\layout\\notification_template_media.xml"
     },
     {
         "merged": "C:\\Users\\Ark\\StudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",

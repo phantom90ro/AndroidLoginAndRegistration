@@ -13,7 +13,66 @@
         android:layout_gravity="center"
         android:orientation="vertical"
         android:paddingLeft="20dp"
-        android:paddingRight="20dp" >
+        android:paddingRight="20dp"
+        android:weightSum="1">
+
+        <TextView
+            android:id="@+id/tvInfo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/job_header"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/etContractor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="@string/job_contractor"
+            android:inputType="textPersonName"
+            android:textSize="20sp" />
+
+        <Spinner
+            android:id="@+id/spCity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/btn_dropdown"
+            android:spinnerMode="dropdown" />
+
+        <EditText
+            android:id="@+id/etStreet"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="@string/job_street"
+            android:inputType="textPersonName"
+            android:textSize="20sp" />
+
+        <Spinner
+            android:id="@+id/spJobType"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/btn_dropdown"
+            android:spinnerMode="dropdown" />
+
+        <EditText
+            android:id="@+id/etHourStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="@string/job_start"
+            android:inputType="datetime"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/etHourEnd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="@string/job_end"
+            android:inputType="datetime"
+            android:textSize="20sp" />
 
         <TextView
             android:id="@+id/tvUser"
@@ -22,7 +81,16 @@
             android:padding="10dp"
             android:textAllCaps="false"
             android:textColor="@color/lbl_name"
-            android:textSize="15dp" />
+            android:textSize="12sp"
+            android:visibility="invisible" />
+
+        <Button
+            android:id="@+id/btnAddJob"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/btn_job_bg"
+            android:text="@string/btn_add_job"
+            android:textColor="@color/white" />
 
         <Button
             android:id="@+id/btnBack"
