@@ -4,8 +4,6 @@ import android.app.Activity;
 import android.app.ProgressDialog;
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.design.widget.TabLayout;
-import android.support.v7.widget.LinearLayoutCompat;
 import android.util.Log;
 import android.view.View;
 import android.widget.ArrayAdapter;
@@ -24,16 +22,16 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 import info.androidhive.loginandregistration.R;
 import info.androidhive.loginandregistration.app.AppConfig;
 import info.androidhive.loginandregistration.app.AppController;
 import info.androidhive.loginandregistration.helper.SQLiteHandler;
+import info.androidhive.loginandregistration.helper.SQLiteHandlerJobType;
 import info.androidhive.loginandregistration.helper.SQLiteHandlerJobs;
 import info.androidhive.loginandregistration.helper.SessionManager;
-
-import static com.android.volley.Request.*;
 
 public class JobActivity extends Activity {
     private static final String TAG = JobActivity.class.getSimpleName();
@@ -46,6 +44,7 @@ public class JobActivity extends Activity {
 
     private SQLiteHandler db;
     private SQLiteHandlerJobs db_job;
+    private SQLiteHandlerJobType db_job_type;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -64,12 +63,12 @@ public class JobActivity extends Activity {
         spJobType = (Spinner) findViewById(R.id.spJobType);
 
         String[] item_city = new String[]{"Arad", "Timisoara", "Brasov"};
-        ArrayAdapter<String> adapter_city = new ArrayAdapter<String>(this,
+        ArrayAdapter<String> adapter_city = new ArrayAdapter<>(this,
                 R.layout.support_simple_spinner_dropdown_item, item_city);
         spCity.setAdapter(adapter_city);
 
         String[] item_job = new String[]{"Type A", "Type B", "Type C"};
-        ArrayAdapter<String> adapter_job = new ArrayAdapter<String>(this,
+        ArrayAdapter<String> adapter_job = new ArrayAdapter<>(this,
                 R.layout.support_simple_spinner_dropdown_item, item_job);
         spJobType.setAdapter(adapter_job);
 
@@ -133,7 +132,7 @@ public class JobActivity extends Activity {
         StringRequest strReq = new StringRequest(Method.POST, AppConfig.URL_ADD_JOB, new Response.Listener<String>() {
             @Override
             public void onResponse(String response) {
-                Log.d(TAG, "Insert Response: " + response.toString());
+                Log.d(TAG, "Insert Response: " + response);
                 hideDialog();
 
                 try {
@@ -181,7 +180,7 @@ public class JobActivity extends Activity {
             @Override
             protected Map<String, String> getParams() {
                 // Posting params to register url
-                Map<String, String> params = new HashMap<String, String>();
+                Map<String, String> params = new HashMap<>();
                 params.put("contractor", contractor);
                 params.put("street", street);
                 params.put("city", city);
@@ -191,6 +190,24 @@ public class JobActivity extends Activity {
                 return params;
             }
         };
+
+        AppController.getInstance().addToRequestQueue(strReq, tag_string_req);
+    }
+
+    private void getJobType () {
+        String tag_string_req = "req_data";
+
+        StringRequest strReq = new StringRequest(Method.GET, AppConfig.URL_GET_JOB_TYPE, new Response.Listener<String>() {
+            @Override
+            public void onResponse(String response) {
+
+            }
+        }, new Response.ErrorListener() {
+            @Override
+            public void onErrorResponse(VolleyError error) {
+
+            }
+        });
 
         AppController.getInstance().addToRequestQueue(strReq, tag_string_req);
     }

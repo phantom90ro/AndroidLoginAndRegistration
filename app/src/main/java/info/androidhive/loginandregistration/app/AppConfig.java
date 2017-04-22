@@ -9,4 +9,7 @@ public class AppConfig {
 
 	// Server job add url
 	public static String URL_ADD_JOB = "http://phantom90ro.go.ro/android_login_api/insert_new_job.php";
+
+	// Server get job type url
+	public static String URL_GET_JOB_TYPE = "http://phantom90ro.go.ro/android_login_api/get_job_type.php";
 }

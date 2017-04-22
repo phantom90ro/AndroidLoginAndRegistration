@@ -1,8 +1,3 @@
-/**
- * Author: Ravi Tamada
- * URL: www.androidhive.info
- * twitter: http://twitter.com/ravitamada
- * */
 package info.androidhive.loginandregistration.helper;
 
 import android.content.ContentValues;
@@ -84,7 +79,7 @@ public class SQLiteHandler extends SQLiteOpenHelper {
 	 * Getting user data from database
 	 * */
 	public HashMap<String, String> getUserDetails() {
-		HashMap<String, String> user = new HashMap<String, String>();
+		HashMap<String, String> user = new HashMap<>();
 		String selectQuery = "SELECT  * FROM " + TABLE_USER;
 
 		SQLiteDatabase db = this.getReadableDatabase();
